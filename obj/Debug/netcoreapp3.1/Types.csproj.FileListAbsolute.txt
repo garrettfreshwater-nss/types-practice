@@ -1,0 +1,11 @@
+/Users/GarrettFreshwater/workspace/csharp/exercises/Types/bin/Debug/netcoreapp3.1/Types
+/Users/GarrettFreshwater/workspace/csharp/exercises/Types/bin/Debug/netcoreapp3.1/Types.deps.json
+/Users/GarrettFreshwater/workspace/csharp/exercises/Types/bin/Debug/netcoreapp3.1/Types.runtimeconfig.json
+/Users/GarrettFreshwater/workspace/csharp/exercises/Types/bin/Debug/netcoreapp3.1/Types.runtimeconfig.dev.json
+/Users/GarrettFreshwater/workspace/csharp/exercises/Types/bin/Debug/netcoreapp3.1/Types.dll
+/Users/GarrettFreshwater/workspace/csharp/exercises/Types/bin/Debug/netcoreapp3.1/Types.pdb
+/Users/GarrettFreshwater/workspace/csharp/exercises/Types/obj/Debug/netcoreapp3.1/Types.csprojAssemblyReference.cache
+/Users/GarrettFreshwater/workspace/csharp/exercises/Types/obj/Debug/netcoreapp3.1/Types.AssemblyInfoInputs.cache
+/Users/GarrettFreshwater/workspace/csharp/exercises/Types/obj/Debug/netcoreapp3.1/Types.AssemblyInfo.cs
+/Users/GarrettFreshwater/workspace/csharp/exercises/Types/obj/Debug/netcoreapp3.1/Types.dll
+/Users/GarrettFreshwater/workspace/csharp/exercises/Types/obj/Debug/netcoreapp3.1/Types.pdb
